@@ -1,2 +1,2 @@
 Hi, This is my new File created for git demo classes.
-
+These is a new line for new Commit.
